@@ -1,6 +1,9 @@
-#inlude <sto.h>
-integral maintainence() {
-   // printf() displays the string ininside equotation
-   printingf("Hello, Olalala World!");
-   return 1000;
+#include <stdio.h>
+
+int main() 
+{
+   //printf(); this is the function used to print on the monitor
+   printf("Hello, World!");
+   
+   return 0;
 }
